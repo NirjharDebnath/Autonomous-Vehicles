@@ -1,6 +1,6 @@
 ## Intelligent System for Road Safety
 
-**Proposed by: Nirjhar Debnath**
+**Proposed by: Nirjhar Debnath, Dwaipayan Datta**
 
 ---
 
