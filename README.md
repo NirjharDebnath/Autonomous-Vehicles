@@ -100,13 +100,13 @@ Develop an **Intelligent Driving Partner**—an AI-powered system embedded in ve
 
 ---
 
-## **11. Conclusion**
+## **10. Conclusion**
 
 This Intelligent System for Road Safety leverages the latest advances in AI to create a smarter, safer driving experience. By combining real-time monitoring, proactive intervention, and privacy-preserving learning, it offers a practical and scalable solution to one of society’s most pressing challenges.
 
 ---
 
-## **12. Diagram**
+## **11. Diagram**
 
 ```
 +-------------------------------+
@@ -135,7 +135,7 @@ This Intelligent System for Road Safety leverages the latest advances in AI to c
 
 ---
 
-## **13. References**
+## **12. References**
 
 - Research on ADAS and AI in road safety
 - Studies on federated learning for automotive applications
