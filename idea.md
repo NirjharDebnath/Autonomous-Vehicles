@@ -146,6 +146,9 @@ These factors are to be evaluated directly based on vehicle data.
 
 - Mechanical and electrical issues within the vehicle
 - Using phone or engagement in other activity while driving
+- Driver's hand off the steering wheel, driver's eyes off road, driver's eyes closed
+
+It to be noted that the objective factors are definite and do not need evaluation for confirmation because these actions are condemned while driving. Thereby such objective factors will be detected and a warning period of few seconds will be observed before a alert mechanism gets triggered.
 
 ### 2. Subjective factors:
 
