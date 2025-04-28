@@ -190,5 +190,9 @@ These factors are to be evaluated by the model based on vehicle data.
 
 ## Tools and Experiment
 
-TBD
+### 1. Using CARLA
+
+- We are trying CARLA simulator to arrange our driving scenarios and get the sensor data as the simulator supports.
+- After properly understanding what data we can get, we will create our dataset to create a base model.
+- The base model will be hosted in the raspberry pi and tested if it meets our requirements.
 
